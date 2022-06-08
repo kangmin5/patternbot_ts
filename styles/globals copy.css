@@ -14,11 +14,3 @@ a {
 * {
   box-sizing: border-box;
 }
-.paragraph {
-  font-size: 16px;
-  text-align: center;
-}
-
-.paragraph:hover {
-  color: red;
-}
